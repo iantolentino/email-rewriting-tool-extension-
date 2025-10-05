@@ -11,7 +11,6 @@
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/yourusername/email-rewriter.git
-``
 
 2. Open your browser's extensions page (e.g., `chrome://extensions/`).
 3. Enable "Developer mode".
