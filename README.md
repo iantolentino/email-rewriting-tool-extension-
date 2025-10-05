@@ -1,10 +1,3 @@
-**Email Rewriter** is a browser extension that helps users quickly rewrite or enhance their email drafts. Powered by AI, it can make emails more professional, concise, or friendly with just one click, saving time and improving communication.
-
----
-
-### **README.md**
-
-````markdown
 # Email Rewriter Extension
 
 **Email Rewriter** is a browser extension that helps you quickly rewrite, enhance, or polish your email drafts using AI. Whether you want to make your emails more professional, concise, or friendly, this tool saves time and improves communication.
